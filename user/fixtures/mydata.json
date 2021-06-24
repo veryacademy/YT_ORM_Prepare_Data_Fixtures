@@ -1,0 +1,10 @@
+[
+    {
+        "model":  "user.details",
+        "id":  "1",
+        "fields":{
+        "name":  "Harry Potter",
+        "age":  "18"
+        }
+    }
+]
